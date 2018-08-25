@@ -5,6 +5,12 @@ E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\D
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\EntityFramework.SqlServer.dll
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\EntityFramework.xml
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\EntityFramework.SqlServer.xml
-E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\obj\Debug\PrimeProject.Business.csprojResolveAssemblyReference.cache
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\obj\Debug\PrimeProject.Business.dll
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\obj\Debug\PrimeProject.Business.pdb
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\log4net.dll
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\System.Web.Http.dll
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\System.Net.Http.Formatting.dll
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\Newtonsoft.Json.dll
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\log4net.xml
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\System.Web.Http.xml
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\System.Net.Http.Formatting.xml

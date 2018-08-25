@@ -36,9 +36,14 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,7 +52,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Application\Manager\ItemManager.cs" />
+    <Compile Include="Application\Manager\ModuleManager.cs" />
+    <Compile Include="Application\Utils\Constants.cs" />
+    <Compile Include="Application\Utils\StringUtils.cs" />
+    <Compile Include="Application\Utils\ReflectionUtils.cs" />
     <Compile Include="EntityFramework\PrimeContext.cs" />
+    <Compile Include="EntityFramework\PrimeDbContext.cs" />
     <Compile Include="Entity\Items.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

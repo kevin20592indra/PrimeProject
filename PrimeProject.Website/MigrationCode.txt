@@ -1,0 +1,3 @@
+﻿Enable-Migrations -ContextTypeName PrimeContext -ContextProjectName PrimeProject.Business -MigrationsDirectory Migrations\PrimeProject   -ProjectName PrimeProject.Website -StartUpProjectName PrimeProject.Website
+Add-Migration -ConfigurationTypeName PrimeProject.Website.Migrations.PrimeProject.Configuration -ProjectName PrimeProject.Website -StartUpProjectName PrimeProject.Website " "
+Update-Database -ConfigurationTypeName PrimeProject.Website.Migrations.PrimeProject.Configuration -ProjectName PrimeProject.Website -StartUpProjectName PrimeProject.Website 
