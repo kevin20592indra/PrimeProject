@@ -71,6 +71,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Application\Default.aspx" />
     <Content Include="Application\_Theme\bootstrap\css\bootstrap.css" />
     <Content Include="Application\_Theme\bootstrap\css\bootstrap.min.css" />
     <Content Include="Application\_Theme\bootstrap\fonts\glyphicons-halflings-regular.svg" />
@@ -720,6 +721,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Application\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Application\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Application\_Master\BaseMaster.Master.cs">
       <DependentUpon>BaseMaster.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

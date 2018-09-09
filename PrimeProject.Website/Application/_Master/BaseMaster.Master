@@ -22,7 +22,6 @@
     <link href="/Application/_Theme/plugins/datepicker/datepicker3.css" rel="stylesheet" type="text/css" />
     <link href="/Application/_Theme/plugins/daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css" />
     <link href="/Application/_Theme/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
-
 </head>
 <body class="skin-blue">
     <div class="wrapper">
