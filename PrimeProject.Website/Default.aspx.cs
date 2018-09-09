@@ -69,7 +69,7 @@ namespace PrimeProject.Website
         }
 
         private void _UpdateView()
-        {
+        {/*
             Lbl1.Text = "";
 
             var items = ItemManager.GetInstance().GetAll();
@@ -79,7 +79,7 @@ namespace PrimeProject.Website
                 Lbl1.Text = Lbl1.Text + " " + item.ItemName + "</br>";
                 Lbl1.Text = Lbl1.Text + " " + item.Type + "</br>";
                 Lbl1.Text = Lbl1.Text + "</br>";
-            }
+            }*/
         }
     }
 }
