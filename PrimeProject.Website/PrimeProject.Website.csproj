@@ -23,6 +23,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -619,6 +620,7 @@
     <Content Include="Application\_Widget\Content.ascx" />
     <Content Include="Application\_Widget\Footer.ascx" />
     <Content Include="Application\_Widget\Header.ascx" />
+    <Content Include="Application\_Widget\LoginHeader.ascx" />
     <Content Include="Application\_Widget\NavBar.ascx" />
     <Content Include="Application\_Widget\SideBar.ascx" />
     <Content Include="Default.aspx" />
@@ -755,6 +757,13 @@
     </Compile>
     <Compile Include="Application\_Widget\Header.ascx.designer.cs">
       <DependentUpon>Header.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Application\_Widget\LoginHeader.ascx.cs">
+      <DependentUpon>LoginHeader.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Application\_Widget\LoginHeader.ascx.designer.cs">
+      <DependentUpon>LoginHeader.ascx</DependentUpon>
     </Compile>
     <Compile Include="Application\_Widget\NavBar.ascx.cs">
       <DependentUpon>NavBar.ascx</DependentUpon>

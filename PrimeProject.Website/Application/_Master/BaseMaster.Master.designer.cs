@@ -13,13 +13,13 @@ namespace PrimeProject.Website.Application._Master {
     public partial class BaseMaster {
         
         /// <summary>
-        /// MainHeaderPlaceHolder control.
+        /// HeaderPlaceHolder control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainHeaderPlaceHolder;
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder HeaderPlaceHolder;
         
         /// <summary>
         /// Header control.
@@ -47,15 +47,6 @@ namespace PrimeProject.Website.Application._Master {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::PrimeProject.Website.Application._Widget.SideBar SideBar;
-        
-        /// <summary>
-        /// NavBarPlaceHolder control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder NavBarPlaceHolder;
         
         /// <summary>
         /// NavBar control.

@@ -2,7 +2,7 @@
 
 <header class="main-header">
     <!-- Logo -->
-    <a href="../_Master/index2.html" class="logo"><b>Admin</b>LTE</a>
+    <a href="../_Master/index2.html" class="logo"><b>Prime</b> Project</a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top" role="navigation">
         <!-- Sidebar toggle button-->
@@ -11,7 +11,7 @@
         </a>
         <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
-                <!-- Messages: style can be found in dropdown.less-->
+<%--                <!-- Messages: style can be found in dropdown.less-->
                 <li class="dropdown messages-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <i class="fa fa-envelope-o"></i>
@@ -208,7 +208,7 @@
                             <a href="#">View all tasks</a>
                         </li>
                     </ul>
-                </li>
+                </li>--%>
                 <!-- User Account: style can be found in dropdown.less -->
                 <li class="dropdown user user-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -225,7 +225,8 @@
                                         <small>Member since Nov. 2012</small>
                             </p>
                         </li>
-                        <!-- Menu Body -->
+
+<%--                        <!-- Menu Body -->
                         <li class="user-body">
                             <div class="col-xs-4 text-center">
                                 <a href="#">Followers</a>
@@ -236,7 +237,8 @@
                             <div class="col-xs-4 text-center">
                                 <a href="#">Friends</a>
                             </div>
-                        </li>
+                        </li>--%>
+
                         <!-- Menu Footer-->
                         <li class="user-footer">
                             <div class="pull-left">

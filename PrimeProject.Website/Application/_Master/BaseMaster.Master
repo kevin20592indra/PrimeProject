@@ -25,20 +25,20 @@
 </head>
 <body class="skin-blue">
     <div class="wrapper">
-
-        <asp:ContentPlaceHolder runat="server" ID="MainHeaderPlaceHolder">
-            <uc1:Header runat="server" id="Header" />
+        
+        <asp:ContentPlaceHolder runat="server" ID="HeaderPlaceHolder">
+            <uc1:Header runat="server" ID="Header" />
         </asp:ContentPlaceHolder>
         <!-- Left side column. contains the logo and sidebar -->
+        
         <asp:ContentPlaceHolder runat="server" ID="SideBarPlaceHolder">
-            <uc1:SideBar runat="server" id="SideBar" />
+            <uc1:SideBar runat="server" ID="SideBar" />
         </asp:ContentPlaceHolder>
+
         <!-- Right side column. Contains the navbar and content of the page -->
         <div class="content-wrapper">
             <!-- Content Header (Page header) -->
-            <asp:ContentPlaceHolder runat="server" ID="NavBarPlaceHolder">
-                <uc1:NavBar runat="server" id="NavBar" />
-            </asp:ContentPlaceHolder>
+            <uc1:NavBar runat="server" ID="NavBar" />
             <!-- Main content -->
             <asp:ContentPlaceHolder runat="server" ID="ContentPlaceHolder">
             </asp:ContentPlaceHolder>
@@ -46,7 +46,7 @@
         </div>
         <!-- /.content-wrapper -->
         <asp:ContentPlaceHolder runat="server" ID="FooterPlaceHolder">
-            <uc1:Footer runat="server" id="Footer" />
+            <uc1:Footer runat="server" ID="Footer" />
         </asp:ContentPlaceHolder>
     </div>
     <!-- ./wrapper -->

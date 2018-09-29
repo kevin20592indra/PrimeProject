@@ -34,7 +34,6 @@ E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\Pr
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\PrimeProject.Business.dll.config
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\EntityFramework.xml
-E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.csprojResolveAssemblyReference.cache
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.dll
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.pdb
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\EntityFramework.SqlServer.dll
@@ -43,3 +42,6 @@ E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\lo
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\bin\log4net.xml
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.Migrations.PrimeProject._1ItemInit.resources
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.csproj.GenerateResource.Cache
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.csprojAssemblyReference.cache
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.csproj.CoreCompileInputs.cache
+E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Website\obj\Debug\PrimeProject.Website.csproj.CopyComplete
