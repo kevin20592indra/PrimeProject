@@ -54,12 +54,16 @@
   <ItemGroup>
     <Compile Include="Application\Manager\ItemManager.cs" />
     <Compile Include="Application\Manager\ModuleManager.cs" />
+    <Compile Include="Application\Manager\StockManager.cs" />
+    <Compile Include="Application\Manager\TransactionManager.cs" />
     <Compile Include="Application\Utils\Constants.cs" />
     <Compile Include="Application\Utils\StringUtils.cs" />
     <Compile Include="Application\Utils\ReflectionUtils.cs" />
     <Compile Include="EntityFramework\PrimeContext.cs" />
     <Compile Include="EntityFramework\PrimeDbContext.cs" />
     <Compile Include="Entity\Items.cs" />
+    <Compile Include="Entity\Storage.cs" />
+    <Compile Include="Entity\Transaction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

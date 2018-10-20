@@ -16,4 +16,3 @@ E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\D
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\bin\Debug\System.Net.Http.Formatting.xml
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\obj\Debug\PrimeProject.Business.csproj.CoreCompileInputs.cache
 E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\obj\Debug\PrimeProject.Business.csproj.CopyComplete
-E:\Kevin\PrimeHobbyProject\PrimeProject\PrimeProject\PrimeProject.Business\obj\Debug\PrimeProject.Business.csprojAssemblyReference.cache
