@@ -13,6 +13,15 @@ namespace PrimeProject.Website.Application._Master {
     public partial class BaseMaster {
         
         /// <summary>
+        /// HeadPlaceHolder control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder HeadPlaceHolder;
+        
+        /// <summary>
         /// HeaderPlaceHolder control.
         /// </summary>
         /// <remarks>
@@ -83,5 +92,14 @@ namespace PrimeProject.Website.Application._Master {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::PrimeProject.Website.Application._Widget.Footer Footer;
+        
+        /// <summary>
+        /// PluginsPlaceHolder control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder PluginsPlaceHolder;
     }
 }

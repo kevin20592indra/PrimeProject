@@ -73,12 +73,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Application\Default.aspx" />
+    <Content Include="Application\TestPage.aspx" />
+    <Content Include="Application\_Content\Listing.ascx" />
     <Content Include="Application\_Theme\bootstrap\css\bootstrap.css" />
     <Content Include="Application\_Theme\bootstrap\css\bootstrap.min.css" />
     <Content Include="Application\_Theme\bootstrap\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Application\_Theme\bootstrap\js\bootstrap.js" />
     <Content Include="Application\_Theme\bootstrap\js\bootstrap.min.js" />
     <Content Include="Application\_Theme\bootstrap\js\npm.js" />
+    <Content Include="Application\CopyFromCss.aspx" />
     <Content Include="Application\_Theme\dist\css\AdminLTE.css" />
     <Content Include="Application\_Theme\dist\css\AdminLTE.min.css" />
     <Content Include="Application\_Theme\dist\css\skins\skin-black.css" />
@@ -730,12 +733,33 @@
     <Compile Include="Application\Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Application\TestPage.aspx.cs">
+      <DependentUpon>TestPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Application\TestPage.aspx.designer.cs">
+      <DependentUpon>TestPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Application\_Content\Listing.ascx.cs">
+      <DependentUpon>Listing.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Application\_Content\Listing.ascx.designer.cs">
+      <DependentUpon>Listing.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Application\_Master\BaseMaster.Master.cs">
       <DependentUpon>BaseMaster.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Application\_Master\BaseMaster.Master.designer.cs">
       <DependentUpon>BaseMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Application\CopyFromCss.aspx.cs">
+      <DependentUpon>CopyFromCss.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Application\CopyFromCss.aspx.designer.cs">
+      <DependentUpon>CopyFromCss.aspx</DependentUpon>
     </Compile>
     <Compile Include="Application\_Widget\Content.ascx.cs">
       <DependentUpon>Content.ascx</DependentUpon>
